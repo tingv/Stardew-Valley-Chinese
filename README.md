@@ -8,6 +8,7 @@
 #### 使用说明
 
 1.  如果是IOS设备需要越狱，目前可越狱的最新IOS版本为14.7.1，仅支持iPhone 6S 至 X ，iPhone XS 至 12不支持，越狱方法请自行搜索。
+2.  下载汉化包：[点击下载](https://gitee.com/ttdms/Stardew-Valley-Chinese/attach_files/826807/download/%E6%98%9F%E9%9C%B2%E8%B0%B7%E7%89%A9%E8%AF%ADIOS%201.4.5.153%E6%B1%89%E5%8C%96%E5%8C%85.zip)
 2.  越狱后使用爱思助手
     ![文件管理 - 文件系统（越狱）](https://images.gitee.com/uploads/images/2021/0909/170404_b7fa4452_571766.png "1.png")
 3.  打开路径：/private/var/containers/Bundle/Application/Stardew Valley/StardewValley.app/Content
